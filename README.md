@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img src="https://firebasestorage.googleapis.com/v0/b/bmsit-project-manager-79627.appspot.com/o/loding1.gif?alt=media&token=9899464d-b8e2-4ed1-ad64-fd33d7ffabb5" width="40" height="40" />
-
-![Alt Text](https://firebasestorage.googleapis.com/v0/b/bmsit-project-manager-79627.appspot.com/o/loding1.gif)
 <!---
 ux-ninja/ux-ninja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
