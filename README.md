@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<iframe src="https://lottiefiles.com/iframe/40096-loading-robot"></iframe>
 
 <!---
 ux-ninja/ux-ninja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
