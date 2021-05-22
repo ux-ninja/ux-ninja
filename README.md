@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+![Alt Text](https://github.com/ux-ninja/flutter_loading_kit/blob/master/assets/loding1.gif)
+
 <!---
 ux-ninja/ux-ninja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
